@@ -1,0 +1,23 @@
+INFO  12:25:04 Application started. Press Ctrl+C to shut down.
+INFO  12:25:04 Application started. Press Ctrl+C to shut down.
+INFO  12:25:04 Hosting environment: Development
+INFO  12:25:04 Hosting environment: Development
+INFO  12:25:04 Content root path: C:\Users\RAVI KUMAR\Desktop\Stimulation Project\Simulation\Availability
+INFO  12:25:04 Content root path: C:\Users\RAVI KUMAR\Desktop\Stimulation Project\Simulation\Availability
+INFO  12:25:06 API initiated to Get Book list
+INFO  12:29:26 Application started. Press Ctrl+C to shut down.
+INFO  12:29:26 Application started. Press Ctrl+C to shut down.
+INFO  12:29:26 Hosting environment: Development
+INFO  12:29:26 Hosting environment: Development
+INFO  12:29:26 Content root path: C:\Users\RAVI KUMAR\Desktop\Stimulation Project\Simulation\Availability
+INFO  12:29:26 Content root path: C:\Users\RAVI KUMAR\Desktop\Stimulation Project\Simulation\Availability
+INFO  12:29:27 API initiated to Get Book list
+INFO  12:29:31 Book list retrieved : System.Collections.Generic.List`1[Availability.Models.BookListModel]
+INFO  12:33:27 Application started. Press Ctrl+C to shut down.
+INFO  12:33:27 Application started. Press Ctrl+C to shut down.
+INFO  12:33:27 Hosting environment: Development
+INFO  12:33:27 Hosting environment: Development
+INFO  12:33:27 Content root path: C:\Users\RAVI KUMAR\Desktop\Stimulation Project\Simulation\Availability
+INFO  12:33:27 Content root path: C:\Users\RAVI KUMAR\Desktop\Stimulation Project\Simulation\Availability
+INFO  12:33:28 API initiated to Get Book list
+INFO  12:33:31 No of Books retrieved : 1

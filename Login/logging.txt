@@ -1,0 +1,15 @@
+INFO  01:41:52 Application started. Press Ctrl+C to shut down.
+INFO  01:41:52 Application started. Press Ctrl+C to shut down.
+INFO  01:41:52 Hosting environment: Development
+INFO  01:41:52 Hosting environment: Development
+INFO  01:41:52 Content root path: C:\Users\RAVI KUMAR\Desktop\Stimulation Project\Simulation\Login
+INFO  01:41:52 Content root path: C:\Users\RAVI KUMAR\Desktop\Stimulation Project\Simulation\Login
+INFO  01:42:23 Authentication initiated
+INFO  01:42:50 Login credential matched
+INFO  01:42:50 Json web token generated
+INFO  02:21:47 Application started. Press Ctrl+C to shut down.
+INFO  02:21:47 Application started. Press Ctrl+C to shut down.
+INFO  02:21:47 Hosting environment: Development
+INFO  02:21:47 Hosting environment: Development
+INFO  02:21:47 Content root path: C:\Users\RAVI KUMAR\Desktop\Stimulation Project\Simulation\Login
+INFO  02:21:47 Content root path: C:\Users\RAVI KUMAR\Desktop\Stimulation Project\Simulation\Login

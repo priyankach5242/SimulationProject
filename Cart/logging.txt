@@ -1,0 +1,8 @@
+INFO  12:47:35 Application started. Press Ctrl+C to shut down.
+INFO  12:47:35 Application started. Press Ctrl+C to shut down.
+INFO  12:47:35 Hosting environment: Development
+INFO  12:47:35 Hosting environment: Development
+INFO  12:47:35 Content root path: C:\Users\RAVI KUMAR\Desktop\Stimulation Project\Simulation\Cart
+INFO  12:47:35 Content root path: C:\Users\RAVI KUMAR\Desktop\Stimulation Project\Simulation\Cart
+INFO  12:48:45 API initiated
+INFO  12:49:15 Book Added
